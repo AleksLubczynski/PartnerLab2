@@ -6,7 +6,7 @@ This lab is a SwiftUI memory game created by Aleks Lubczynski and Alex Teterin. 
 
 Description:
 
-The app is a car themed memory matching game where players tap the cards in order to reveal car images to try and match all of the pairs of two.
+The app is a car-themed memory-matching game where players tap the cards in order to reveal car images to try and match all of the pairs of two.
 
 Project Demonstration:
 
