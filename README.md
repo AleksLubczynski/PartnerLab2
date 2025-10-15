@@ -24,3 +24,6 @@ _CardView_ represents how each of the cards look when it is faced up and shows t
 Video Demo: 
 
 Here is the link for the video showing the game working: 
+
+https://github.com/user-attachments/assets/7a767e40-a3d3-41ac-b59b-c98c989483fc
+
